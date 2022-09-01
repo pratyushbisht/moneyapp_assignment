@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1030433831218",
+    "project_id": "moneyyyapp",
+    "storage_bucket": "moneyyyapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030433831218:android:05b6b60df5bb632683bf2b",
+        "android_client_info": {
+          "package_name": "pb.co.moneyy_app_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030433831218-fa8e37bumvpk4jg9r5aeriqjk0uu3u82.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pb.co.moneyy_app_assignment",
+            "certificate_hash": "ebf0fcb5f311528cc76c4dfdfd23ae502ad7a3ea"
+          }
+        },
+        {
+          "client_id": "1030433831218-hu3bjumis9trujaods0cadpmnrdvpan3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByMSphAtalHrCn5gCD_XLkj7O-rrnet6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030433831218-hu3bjumis9trujaods0cadpmnrdvpan3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
